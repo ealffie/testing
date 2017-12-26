@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+#This is the program to check for anagram 
+#sakjfbakjdsal
+
+
+>>>>>>> origin/master
 def number_needed(a, b):
     l1 = list(a)
     l2 = list(b)
@@ -17,4 +24,7 @@ b = input().strip()
 
 
 print(number_needed(a, b))
+<<<<<<< HEAD
 //
+=======
+>>>>>>> origin/master
